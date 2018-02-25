@@ -1,0 +1,26 @@
+{
+  "name": "react-native-lib-helpers",
+  "version": "0.0.1",
+  "description": "The helpers for react-native. Help me coding comfortable.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hstarorg/react-native-lib-helpers.git"
+  },
+  "jest": {
+    "preset": "jest-react-native"
+  },
+  "keywords": [],
+  "author": "Jay.M.Hu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hstarorg/react-native-lib-helpers/issues"
+  },
+  "homepage": "https://github.com/hstarorg/react-native-lib-helpers#readme",
+  "devDependencies": {
+    "jest": "^22.4.2"
+  }
+}
